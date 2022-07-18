@@ -6,6 +6,8 @@ public class ViewContentFactoryProducer {
     {
         if(type.equals(ViewLoadType.STAGE)){
             return new FxmlStageViewFactory();
+        }else if(type.equals(ViewLoadType.STAGE_PURE)){
+            return new FxmlStagePureViewFactory();
         }else if(type.equals(ViewLoadType.PANE)){
             return new FxmlPaneViewFactory();
         }else if(type.equals(ViewLoadType.CONTROL)){

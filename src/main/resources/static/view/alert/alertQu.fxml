@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane prefHeight="230.0" style="-fx-border-color: #5dac5a" prefWidth="400.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ir.alirezaalijani.product.manager.application.ui.util.alert.alertController.QuAlertController">
+<BorderPane prefHeight="230.0" style="-fx-border-color: #5dac5a" prefWidth="400.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ir.alirezaalijani.javafx.application.ui.util.alert.alertController.QuAlertController">
    <top>
       <AnchorPane nodeOrientation="LEFT_TO_RIGHT" prefHeight="63.0" prefWidth="385.0" style="-fx-background-color: #5a9216; -fx-background-radius: 30;" BorderPane.alignment="CENTER">
          <children>

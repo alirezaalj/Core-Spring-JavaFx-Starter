@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane prefHeight="230.0" style="-fx-border-color: #bf426d" prefWidth="400.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ir.alirezaalijani.product.manager.application.ui.util.alert.alertController.InfoAlertController">
+<BorderPane prefHeight="230.0" style="-fx-border-color: #bf426d" prefWidth="400.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ir.alirezaalijani.javafx.application.ui.util.alert.alertController.InfoAlertController">
    <top>
       <AnchorPane prefHeight="63.0" prefWidth="385.0" style="-fx-background-color: #FF8A65; -fx-background-radius: 30;" BorderPane.alignment="CENTER">
          <children>
